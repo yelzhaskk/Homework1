@@ -1,5 +1,8 @@
 #Solve Problems using loops
 #1
+# n = int(input("Enter number: "))
+# for i in range(1, n + 1):
+#     print("Number is :", i, "and cube of the", i, "is :", i**3 )
 
 #2
 # A = input("Enter number:").split()
@@ -7,7 +10,7 @@
 # print(A)
 
 #3
-# n = int(input("Enter: "))
+# n = int(input("Enter number: "))
 # factorial = 1
 # while n > 1:
 #    factorial = n * factorial
